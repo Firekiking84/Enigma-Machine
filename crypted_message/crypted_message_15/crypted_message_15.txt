@@ -1,0 +1,45 @@
+Paramètres : 
+   Choix des rotors : 
+        Premier rotor : n°8
+       Deuxième rotor : n°6
+       Troisième rotor : n°4
+       Quatrième rotor : n°2
+  Mode avancé:
+      Mode Standard   Réflexions des lettres :
+        a --> z
+       b --> y
+       c --> x
+       d --> w
+       e --> v
+       f --> u
+       g --> t
+       h --> s
+       i --> r
+       j --> q
+       k --> p
+       l --> o
+       m --> n
+       n --> m
+       o --> l
+       p --> k
+       q --> j
+       r --> i
+       s --> h
+       t --> g
+       u --> f
+       v --> e
+       w --> d
+       x --> c
+       y --> b
+       z --> a
+   Paramétrage :
+         Rotor n°1: 5
+   Paramétrage :
+         Rotor n°2: 10
+   Paramétrage :
+         Rotor n°: 15
+   Paramétrage :
+         Rotor n°1: 20
+
+Message à crypter : keryan houssin
+Message codé : xibxcfqftuzmp

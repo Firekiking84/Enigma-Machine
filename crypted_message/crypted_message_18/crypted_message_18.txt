@@ -1,0 +1,46 @@
+Paramètres : 
+   Choix des rotors : 
+        Premier rotor : n°1
+       Deuxième rotor : n°1
+       Troisième rotor : n°1
+       Quatrième rotor : n°1
+   Mode avancé:
+      Mode militaire : 
+   Réflexions des lettres :
+        a --> a
+   Réflexions des lettres :
+        b --> z
+   Réflexions des lettres :
+        c --> e
+   Réflexions des lettres :
+        d --> r
+   Réflexions des lettres :
+    Réflexions des lettres :
+        f --> t
+   Réflexions des lettres :
+        g --> y
+   Réflexions des lettres :
+        h --> u
+   Réflexions des lettres :
+        i --> i
+   Réflexions des lettres :
+        j --> o
+   Réflexions des lettres :
+        k --> p
+   Réflexions des lettres :
+        l --> q
+   Réflexions des lettres :
+        m --> s
+   Réflexions des lettres :
+        n --> w
+   Paramétrage :
+         Rotor n°1: 18
+   Paramétrage :
+         Rotor n°2: 18
+   Paramétrage :
+         Rotor n°: 18
+   Paramétrage :
+         Rotor n°1: 1
+
+Message à crypter : keryandoitetreincarcere
+Message codé : crbfyutesdjnszgddrjnmzc

@@ -1,0 +1,45 @@
+Paramètres : 
+   Choix des rotors : 
+        Premier rotor : n°8
+       Deuxième rotor : n°6
+       Troisième rotor : n°4
+       Quatrième rotor : n°2
+   Mode avancé:
+      Mode militaire : 
+   Réflexions des lettres :
+        a --> a
+   Réflexions des lettres :
+        b --> z
+   Réflexions des lettres :
+        c --> e
+   Réflexions des lettres :
+        d --> r
+   Réflexions des lettres :
+    Réflexions des lettres :
+        f --> t
+   Réflexions des lettres :
+        g --> y
+   Réflexions des lettres :
+        h --> u
+   Réflexions des lettres :
+        i --> i
+   Réflexions des lettres :
+        j --> o
+   Réflexions des lettres :
+        k --> p
+   Réflexions des lettres :
+        l --> q
+   Réflexions des lettres :
+        m --> s
+   Réflexions des lettres :
+        n --> w
+   Paramétrage :
+         Rotor n°1: 13
+   Paramétrage :
+         Rotor n°2: 1
+   Paramétrage :
+         Rotor n°: 2
+   Paramétrage :
+         Rotor n°1: 8
+
+Message à crypter : im amazing
